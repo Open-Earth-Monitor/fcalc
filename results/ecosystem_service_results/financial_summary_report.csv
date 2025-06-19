@@ -1,0 +1,4 @@
+Scenario,Total Monetary Value (€),Investment Cost (€),BCR,NPV (€),Payback Period (years)
+intervention_A,514609.73,75000.00,6.86,7793536.92,0.1
+intervention_B,894608.25,120000.00,7.46,13561214.22,0.1
+intervention_C,331646.28,60000.00,5.53,5008289.55,0.2
