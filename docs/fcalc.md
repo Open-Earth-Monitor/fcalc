@@ -1,15 +1,5 @@
 # Financial Calculator for Ecosystem Services: Documentation
 
-**A Flexible Solution for Valuing Diverse Ecosystem Services**
-
----
-
-**Author:** Rolf Simoes  
-**Date:** June 19, 2025  
-**Version:** 1.0
-
----
-
 ## Executive Summary
 
 This document introduces `fcalc`, a tool for estimating the economic value of ecosystem service interventions. It is based on established methods for ecosystem service valuation and supports the conversion of model outputs into monetary terms, including the use of land-use-specific cost factors.
@@ -18,7 +8,6 @@ This document introduces `fcalc`, a tool for estimating the economic value of ec
 
 The implementation includes a modular structure that calculates service changes and converts them into economic values. It supports both fixed and land-use-dependent conversion rates. The tool provides common financial indicators such as Benefit-Cost Ratio (BCR), Net Present Value (NPV), and Payback Period. It has been tested in different scenarios and shown to be adaptable and reliable.
 
----
 
 ## Table of Contents
 
@@ -32,7 +21,6 @@ The implementation includes a modular structure that calculates service changes 
 8. [Conclusions and Recommendations](#conclusions-and-recommendations)
 9. [References](#references)
 
----
 
 ## Introduction and Background
 
@@ -47,7 +35,6 @@ This document presents the design, implementation, and validation of the `fcalc`
 
 Here is an improved version of your **“Methodology and Theoretical Framework”** section. It preserves all essential concepts, removes repetition, simplifies sentence structure, and maintains a clear, professional tone:
 
----
 
 ## Methodology and Theoretical Framework
 
@@ -134,7 +121,6 @@ To assess the economic performance of ecosystem service interventions, the valua
 
 You're right — the tool name `fcalc` should be explicitly referenced throughout the section to anchor the description and maintain consistency. Here's the improved version with **`fcalc` clearly named**, while keeping the style concise, neutral, and technically structured:
 
----
 
 ## Implementation Architecture
 
@@ -202,7 +188,6 @@ Example applications include:
 
 By keeping service-specific parameters separate from the core functions, `fcalc` can be applied across various ecosystem services with minimal adjustments.
 
----
 
 ## Technical Implementation
 
@@ -418,7 +403,6 @@ Finally, `generate_summary_report` creates a pandas DataFrame summarizing all fi
 ```
 Here is an improved version of your **"Sample Data Generation"** and **"Testing and Validation"** sections. The revision improves clarity, removes unnecessary qualifiers, and uses a consistent, concise style:
 
----
 
 ### Sample Data Generation
 
@@ -431,7 +415,6 @@ def create_sample_data():
 
 This allows users to run and explore the `fcalc` workflow without external model inputs. It also supports unit testing and instructional use.
 
----
 
 ## Testing and Validation
 
@@ -494,7 +477,6 @@ class TestEcosystemServiceValuationWorkflow(unittest.TestCase):
    * Tests for zero or negative service changes confirm the workflow handles such conditions without failure.
    * Consistency checks confirm that monetary values match between intermediate rasters and final financial outputs.
 
----
 
 ## Results and Analysis
 
@@ -573,7 +555,6 @@ The demonstration confirms that the workflow can perform a complete ecosystem se
 
 Although the data used here are artificial, the methods are directly transferable to real-world applications. With appropriate inputs—such as outputs from InVEST or other models—`fcalc` can be applied to value services like flood mitigation, erosion control, or water purification by adjusting service units, input rasters, and valuation factors.
 
----
 
 ## Usage Guidelines
 
@@ -737,7 +718,6 @@ The `EcosystemServiceValuationWorkflow` class is modular and can be adapted for 
 
 This structure allows users to tailor the tool to specific services, regions, or analytical needs, supporting a range of ecosystem valuation applications.
 
----
 
 ## Conclusions and Recommendations
 
@@ -752,7 +732,6 @@ The demonstration using synthetic data showed that the tool can compare multiple
 
 Here is a revised version of the **“Scientific and Methodological Contributions”** and **“Policy and Planning Implications”** sections. The text has been edited for neutrality, clarity, and brevity, while preserving the intended meaning:
 
----
 
 ### Scientific and Methodological Contributions
 
