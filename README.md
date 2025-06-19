@@ -87,9 +87,6 @@ Detailed documentation, including methodology, implementation details, usage gui
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details. *(Note: A LICENSE file is not included in this generation but is recommended for a real repository.)*
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contact
-
-For questions or collaborations, please contact [Your Name/Email/GitHub Profile].
 
