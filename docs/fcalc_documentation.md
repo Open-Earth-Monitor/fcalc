@@ -19,7 +19,6 @@ The implementation includes a modular structure that calculates service changes 
 6. [Results and Analysis](#results-and-analysis)
 7. [Usage Guidelines](#usage-guidelines)
 8. [Conclusions and Recommendations](#conclusions-and-recommendations)
-9. [References](#references)
 
 
 ## Introduction and Background

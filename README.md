@@ -20,8 +20,7 @@ generic_es_valuation_workflow_repo/
 │   ├── ecosystem_service_valuation_workflow.py
 │   └── test_ecosystem_service_workflow.py
 ├── docs/
-│   ├── Generic_ES_Valuation_Documentation.md
-│   └── Generic_ES_Valuation_Documentation.pdf
+│   ├── fcalc_documentation.md
 ├── data/
 │   ├── sample_baseline_service_provision.tif
 │   ├── sample_intervention_A_service_provision.tif
@@ -84,7 +83,7 @@ python src/test_ecosystem_service_workflow.py
 
 Detailed documentation, including methodology, implementation details, usage guidelines, and results analysis, can be found in the `docs/` directory:
 
--   `Generic_ES_Valuation_Documentation.md` (Markdown format)
+-   `fcalc_documentation.md` (Markdown format)
 
 ## License
 
